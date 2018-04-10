@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Evento</string>
+    <array name="arrDatos">
+        <item>
+            EDMUNDO
+        </item>
+        <item>
+            ADELA
+        </item>
+        <item>
+            ORLANDO
+        </item>
+        <item>
+            RUFINO
+        </item>
+        <item>
+            PATRICIA
+        </item>
+    </array>
+</resources>
